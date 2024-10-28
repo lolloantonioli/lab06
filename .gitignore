@@ -2,3 +2,5 @@
 bin/
 # ignore the .gradle folder and all its contents
 .gradle/
+# ignore the build folder and all its contents
+build/
